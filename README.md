@@ -26,5 +26,5 @@ I'm a first-year engineering student at MIT Vishwaprayag University, exploring p
 Currently learning, experimenting, and working on projects to turn ideas into practical solutions.
 
 ## 🤝 Connect With Me
-- LinkedIn: Add my LinkedIn profile link here.
+- LinkedIn:https://www.linkedin.com/in/hasan-ahmed-shaikh-a97b70344?utm_source=share_via&utm_content=profile&utm_medium=member_android.
 
